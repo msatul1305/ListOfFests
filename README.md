@@ -28,21 +28,26 @@ IIT Mandi : <a href="https://www.exodia.in/">https://www.exodia.in</a>
 
 IIT Madras : <a href="https://www.shaastra.org/">https://www.shaastra.org/</a>
 
+IIT Madras, CultFest : <a href="http://anwesha.info/">http://anwesha.info/</a>
+
 IIT Rourkee : <a href="https://www.cognizance.org.in/">https://www.cognizance.org.in/</a>
+
+IIT Rourkee, Cult fest : <a href="https://www.thomso.in/">https://www.thomso.in/</a>
 
 IIT Patna : <a href="https://celesta.org.in/">https://celesta.org.in/</a>
 
+IIT Patna, CultFest : <a href="http://anwesha.info/">http://anwesha.info/</a>
+
 IIT Ropar : <a href="https://www.advitiya.in/">https://www.advitiya.in/</a>
+
+IIT Ropar, CultFest : <a href="https://www.zeitgeist.org.in/">https://www.zeitgeist.org.in/</a>
 
 ISM Dhanbad : <a href="http://www.srijaniitism.org/">http://www.srijaniitism.org/</a>
 
+IIT Hyderabad : <a href="https://elan.org.in/">https://elan.org.in/</a>
 
+IIT Kharagpur, CultFest : <a href="https://springfest.in/">https://springfest.in/</a>
 
+IIT Jodhpur : <a href="https://ignus.org/">https://ignus.org/</a>
 
-IIT Kanpur : <a href="https://antaragni.in/">https://antaragni.in/</a>
-
-IIT BHU : <a href="https://www.technex.co.in/">https://www.technex.co.in/</a>
-
-
-
-IIT Mandi : <a href="https://www.exodia.in/">https://www.exodia.in</a>
+IIT BHU : <a href="http://www.kashiyatra.org/">http://www.kashiyatra.org/</a>
