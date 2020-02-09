@@ -10,3 +10,13 @@ IIT Delhi : <a href="http://tryst-iitd.org/">http://tryst-iitd.org</a>
 
 IIT Bombay : <a href="http://techfest.org/">http://tryst-iitd.org</a>
 
+IIT Gandhinagar, Techfest : <a href="http://amalthea.iitgn.ac.in/">http://amalthea.iitgn.ac.in/</a>
+
+IIT Bhubaneswar : <a href="http://ca.wissenaire.org/">http://ca.wissenaire.org/</a>
+
+IIT Tirupati : <a href="http://www.tirutsava.com/">http://www.tirutsava.com/</a>
+
+IIT Hyderabad : <a href="https://elan.org.in/">https://elan.org.in/</a>
+
+IIT Mandi : <a href="https://www.exodia.in/">https://www.exodia.in</a>
+
