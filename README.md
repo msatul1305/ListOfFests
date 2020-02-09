@@ -51,3 +51,9 @@ IIT Kharagpur, CultFest : <a href="https://springfest.in/">https://springfest.in
 IIT Jodhpur : <a href="https://ignus.org/">https://ignus.org/</a>
 
 IIT BHU : <a href="http://www.kashiyatra.org/">http://www.kashiyatra.org/</a>
+
+IIT Bhilai : <a href="https://meraz.in/">https://meraz.in/</a>
+
+IIT Goa : <a href="http://iitgoa.ac.in/cultrang">http://iitgoa.ac.in/cultrang</a>
+
+
