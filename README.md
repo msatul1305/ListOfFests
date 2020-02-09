@@ -59,6 +59,7 @@ IIT Goa : <a href="http://iitgoa.ac.in/cultrang">http://iitgoa.ac.in/cultrang</a
 <b>NITs :</b> 
 
 NIT Rourkela, CultFest : <a href="https://www.nitrutsav.com/">https://www.nitrutsav.com/</a>
+
 NIT Rourkela, Techfest : <a href="https://innovision.nitrkl.ac.in/">https://innovision.nitrkl.ac.in/</a>
 
 <b>Events at VSSUT : </b> 
