@@ -56,12 +56,12 @@ IIT Bhilai : <a href="https://meraz.in/">https://meraz.in/</a>
 
 IIT Goa : <a href="http://iitgoa.ac.in/cultrang">http://iitgoa.ac.in/cultrang</a>
 
-NITs : 
+<b>NITs :</b> 
 
 NIT Rourkela, CultFest : <a href="https://www.nitrutsav.com/">https://www.nitrutsav.com/</a>
 NIT Rourkela, Techfest : <a href="https://innovision.nitrkl.ac.in/">https://innovision.nitrkl.ac.in/</a>
 
-Events of VSSUT : 
+<b>Events at VSSUT : </b> 
 1. Vassaunt, Cultural fest : 
 2. Samavesh, TechFest : 
 
