@@ -58,11 +58,6 @@ IIT Goa : <a href="http://iitgoa.ac.in/cultrang">http://iitgoa.ac.in/cultrang</a
 
 <b>NITs :</b> 
 
-NIT Rourkela, CultFest : <a href="https://www.nitrutsav.com/">https://www.nitrutsav.com/</a>
-
-NIT Rourkela, Techfest : <a href="https://innovision.nitrkl.ac.in/">https://innovision.nitrkl.ac.in/</a>
-
-
 <table class="wikitable sortable jquery-tablesorter">
 
 <thead><tr bgcolor="#CCCCCC">
@@ -252,12 +247,12 @@ NIT Rourkela, Techfest : <a href="https://innovision.nitrkl.ac.in/">https://inno
 </td></tr>
 <tr>
 <td>Odisha</td>
-<td> title="Rourkela">Rourkela
+<td title="Rourkela">Rourkela
 </td>
 <td><a href="/wiki/National_Institute_of_Technology,_Rourkela" title="National Institute of Technology, Rourkela">NIT Rourkela</a></td>
-<td><a href="/wiki/Nitrutsav" class="mw-redirect" title="Nitrutsav">Nitrutsav</a></td>
+<td><a href="<a href="https://www.nitrutsav.com/">" title="Nitrutsav">Nitrutsav</a></td>
 <td>2005</td>
-<td>Innovision (festival)</td>
+  <td><a href="https://innovision.nitrkl.ac.in/">Innovision (festival)</a></td>
 <td>2004
 </td></tr>
 <tr>
