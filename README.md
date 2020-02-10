@@ -56,6 +56,8 @@ IIT Bhilai : <a href="https://meraz.in/">https://meraz.in/</a>
 
 IIT Goa : <a href="http://iitgoa.ac.in/cultrang">http://iitgoa.ac.in/cultrang</a>
 
+IIT Kanpur : http://students.iitk.ac.in/takneek/2011/pclub.php
+
 <b>NITs :</b> 
 
 <table class="wikitable sortable jquery-tablesorter">
