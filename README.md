@@ -415,4 +415,5 @@ IIT Goa : <a href="http://iitgoa.ac.in/cultrang">http://iitgoa.ac.in/cultrang</a
 1. Vassaunt, Cultural fest : 
 2. Samavesh, TechFest : 
 
-List to be Updated.
+List to be Updated. : 1. https://en.wikipedia.org/wiki/List_of_cultural_festivals_and_management_events_in_Indian_business_schools
+2. https://en.wikipedia.org/wiki/List_of_cultural_festivals_in_Indian_colleges
