@@ -10,7 +10,7 @@ IIT Dhanbad : <a href="https://www.concetto19.tech/">https://www.concetto19.tech
 
 IIT Delhi : <a href="http://tryst-iitd.org/">http://tryst-iitd.org</a>
 
-IIT Bombay : <a href="http://techfest.org/">http://tryst-iitd.org</a>
+IIT Bombay : <a href="http://techfest.org/">http://techfest.org</a>
 
 Mood Indigo, IIT Bombay : <a href="https://moodi.org/">https://moodi.org/</a>
 
